@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.spring.core.text;
+package com.spring.core.test;
 
 import org.junit.Ignore;
 import org.junit.Test;
